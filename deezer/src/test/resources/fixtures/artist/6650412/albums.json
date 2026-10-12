@@ -1,0 +1,23 @@
+{
+  "data": [
+    {
+      "id": 617250369,
+      "title": "Analog Dreams",
+      "link": "https://www.deezer.com/album/617250369",
+      "cover": "https://api.deezer.com/album/617250369/image",
+      "cover_small": "https://cdn-images.dzcdn.net/images/cover/67ced7cdc92e246fd5b1babc85696449/56x56-000000-80-0-0.jpg",
+      "cover_medium": "https://cdn-images.dzcdn.net/images/cover/67ced7cdc92e246fd5b1babc85696449/250x250-000000-80-0-0.jpg",
+      "cover_big": "https://cdn-images.dzcdn.net/images/cover/67ced7cdc92e246fd5b1babc85696449/500x500-000000-80-0-0.jpg",
+      "cover_xl": "https://cdn-images.dzcdn.net/images/cover/67ced7cdc92e246fd5b1babc85696449/1000x1000-000000-80-0-0.jpg",
+      "md5_image": "67ced7cdc92e246fd5b1babc85696449",
+      "genre_id": 106,
+      "fans": 44166,
+      "release_date": "2026-06-27",
+      "record_type": "album",
+      "tracklist": "https://api.deezer.com/album/617250369/tracks",
+      "explicit_lyrics": false,
+      "type": "album"
+    }
+  ],
+  "total": 1
+}

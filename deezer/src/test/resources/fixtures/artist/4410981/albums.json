@@ -1,0 +1,23 @@
+{
+  "data": [
+    {
+      "id": 621987105,
+      "title": "Velour",
+      "link": "https://www.deezer.com/album/621987105",
+      "cover": "https://api.deezer.com/album/621987105/image",
+      "cover_small": "https://cdn-images.dzcdn.net/images/cover/7f0428f179c81dad6e70ba9b755574f2/56x56-000000-80-0-0.jpg",
+      "cover_medium": "https://cdn-images.dzcdn.net/images/cover/7f0428f179c81dad6e70ba9b755574f2/250x250-000000-80-0-0.jpg",
+      "cover_big": "https://cdn-images.dzcdn.net/images/cover/7f0428f179c81dad6e70ba9b755574f2/500x500-000000-80-0-0.jpg",
+      "cover_xl": "https://cdn-images.dzcdn.net/images/cover/7f0428f179c81dad6e70ba9b755574f2/1000x1000-000000-80-0-0.jpg",
+      "md5_image": "7f0428f179c81dad6e70ba9b755574f2",
+      "genre_id": 165,
+      "fans": 33366,
+      "release_date": "2026-09-04",
+      "record_type": "album",
+      "tracklist": "https://api.deezer.com/album/621987105/tracks",
+      "explicit_lyrics": false,
+      "type": "album"
+    }
+  ],
+  "total": 1
+}

@@ -1,0 +1,41 @@
+{
+  "data": [
+    {
+      "id": 624300176,
+      "title": "Pulse",
+      "link": "https://www.deezer.com/album/624300176",
+      "cover": "https://api.deezer.com/album/624300176/image",
+      "cover_small": "https://cdn-images.dzcdn.net/images/cover/a66c5d950b3fcbead460bd3fea5b1e09/56x56-000000-80-0-0.jpg",
+      "cover_medium": "https://cdn-images.dzcdn.net/images/cover/a66c5d950b3fcbead460bd3fea5b1e09/250x250-000000-80-0-0.jpg",
+      "cover_big": "https://cdn-images.dzcdn.net/images/cover/a66c5d950b3fcbead460bd3fea5b1e09/500x500-000000-80-0-0.jpg",
+      "cover_xl": "https://cdn-images.dzcdn.net/images/cover/a66c5d950b3fcbead460bd3fea5b1e09/1000x1000-000000-80-0-0.jpg",
+      "md5_image": "a66c5d950b3fcbead460bd3fea5b1e09",
+      "genre_id": 113,
+      "fans": 51948,
+      "release_date": "2026-10-02",
+      "record_type": "single",
+      "tracklist": "https://api.deezer.com/album/624300176/tracks",
+      "explicit_lyrics": false,
+      "type": "album"
+    },
+    {
+      "id": 624118552,
+      "title": "Gravity",
+      "link": "https://www.deezer.com/album/624118552",
+      "cover": "https://api.deezer.com/album/624118552/image",
+      "cover_small": "https://cdn-images.dzcdn.net/images/cover/a4c62dcdfe051fc61f76a5e9b0f97769/56x56-000000-80-0-0.jpg",
+      "cover_medium": "https://cdn-images.dzcdn.net/images/cover/a4c62dcdfe051fc61f76a5e9b0f97769/250x250-000000-80-0-0.jpg",
+      "cover_big": "https://cdn-images.dzcdn.net/images/cover/a4c62dcdfe051fc61f76a5e9b0f97769/500x500-000000-80-0-0.jpg",
+      "cover_xl": "https://cdn-images.dzcdn.net/images/cover/a4c62dcdfe051fc61f76a5e9b0f97769/1000x1000-000000-80-0-0.jpg",
+      "md5_image": "a4c62dcdfe051fc61f76a5e9b0f97769",
+      "genre_id": 113,
+      "fans": 36410,
+      "release_date": "2026-09-26",
+      "record_type": "album",
+      "tracklist": "https://api.deezer.com/album/624118552/tracks",
+      "explicit_lyrics": false,
+      "type": "album"
+    }
+  ],
+  "total": 2
+}

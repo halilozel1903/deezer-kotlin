@@ -1,0 +1,16 @@
+{
+  "id": 5503126,
+  "name": "Echo Park Kids",
+  "link": "https://www.deezer.com/artist/5503126",
+  "picture": "https://api.deezer.com/artist/5503126/image",
+  "picture_small": "https://cdn-images.dzcdn.net/images/artist/7fd3eda0fb0556cb4fc16eb235ef19c1/56x56-000000-80-0-0.jpg",
+  "picture_medium": "https://cdn-images.dzcdn.net/images/artist/7fd3eda0fb0556cb4fc16eb235ef19c1/250x250-000000-80-0-0.jpg",
+  "picture_big": "https://cdn-images.dzcdn.net/images/artist/7fd3eda0fb0556cb4fc16eb235ef19c1/500x500-000000-80-0-0.jpg",
+  "picture_xl": "https://cdn-images.dzcdn.net/images/artist/7fd3eda0fb0556cb4fc16eb235ef19c1/1000x1000-000000-80-0-0.jpg",
+  "share": "https://www.deezer.com/artist/5503126?utm_source=deezer&utm_content=artist-5503126&utm_medium=web",
+  "nb_album": 1,
+  "nb_fan": 301778,
+  "radio": true,
+  "tracklist": "https://api.deezer.com/artist/5503126/top?limit=50",
+  "type": "artist"
+}

@@ -1,0 +1,130 @@
+{
+  "data": [
+    {
+      "id": 1313621735,
+      "title": "Top Worldwide",
+      "public": true,
+      "nb_tracks": 100,
+      "link": "https://www.deezer.com/playlist/1313621735",
+      "picture": "https://api.deezer.com/playlist/1313621735/image",
+      "picture_small": "https://cdn-images.dzcdn.net/images/playlist/38d1465ebc1971e5efaff760cd893b3a/56x56-000000-80-0-0.jpg",
+      "picture_medium": "https://cdn-images.dzcdn.net/images/playlist/38d1465ebc1971e5efaff760cd893b3a/250x250-000000-80-0-0.jpg",
+      "picture_big": "https://cdn-images.dzcdn.net/images/playlist/38d1465ebc1971e5efaff760cd893b3a/500x500-000000-80-0-0.jpg",
+      "picture_xl": "https://cdn-images.dzcdn.net/images/playlist/38d1465ebc1971e5efaff760cd893b3a/1000x1000-000000-80-0-0.jpg",
+      "checksum": "9c0b5e4eb0783f6087d144c62ad7c8ad",
+      "tracklist": "https://api.deezer.com/playlist/1313621735/tracks",
+      "creation_date": "2025-02-14 09:12:47",
+      "md5_image": "38d1465ebc1971e5efaff760cd893b3a",
+      "picture_type": "playlist",
+      "position": 1,
+      "user": {
+        "id": 637006841,
+        "name": "Charts Team",
+        "tracklist": "https://api.deezer.com/user/637006841/flow",
+        "type": "user"
+      },
+      "type": "playlist"
+    },
+    {
+      "id": 908622995,
+      "title": "Fresh Pop",
+      "public": true,
+      "nb_tracks": 60,
+      "link": "https://www.deezer.com/playlist/908622995",
+      "picture": "https://api.deezer.com/playlist/908622995/image",
+      "picture_small": "https://cdn-images.dzcdn.net/images/playlist/ef7f57ef086121770d73fef8988d189b/56x56-000000-80-0-0.jpg",
+      "picture_medium": "https://cdn-images.dzcdn.net/images/playlist/ef7f57ef086121770d73fef8988d189b/250x250-000000-80-0-0.jpg",
+      "picture_big": "https://cdn-images.dzcdn.net/images/playlist/ef7f57ef086121770d73fef8988d189b/500x500-000000-80-0-0.jpg",
+      "picture_xl": "https://cdn-images.dzcdn.net/images/playlist/ef7f57ef086121770d73fef8988d189b/1000x1000-000000-80-0-0.jpg",
+      "checksum": "b604a34078ea4531b3eb86c9514dbd0d",
+      "tracklist": "https://api.deezer.com/playlist/908622995/tracks",
+      "creation_date": "2025-02-14 09:12:47",
+      "md5_image": "ef7f57ef086121770d73fef8988d189b",
+      "picture_type": "playlist",
+      "position": 2,
+      "user": {
+        "id": 637006841,
+        "name": "Charts Team",
+        "tracklist": "https://api.deezer.com/user/637006841/flow",
+        "type": "user"
+      },
+      "type": "playlist"
+    },
+    {
+      "id": 1479458365,
+      "title": "Late Night Drive",
+      "public": true,
+      "nb_tracks": 45,
+      "link": "https://www.deezer.com/playlist/1479458365",
+      "picture": "https://api.deezer.com/playlist/1479458365/image",
+      "picture_small": "https://cdn-images.dzcdn.net/images/playlist/c80dc16acc9ee0612e2a539b01a89bc5/56x56-000000-80-0-0.jpg",
+      "picture_medium": "https://cdn-images.dzcdn.net/images/playlist/c80dc16acc9ee0612e2a539b01a89bc5/250x250-000000-80-0-0.jpg",
+      "picture_big": "https://cdn-images.dzcdn.net/images/playlist/c80dc16acc9ee0612e2a539b01a89bc5/500x500-000000-80-0-0.jpg",
+      "picture_xl": "https://cdn-images.dzcdn.net/images/playlist/c80dc16acc9ee0612e2a539b01a89bc5/1000x1000-000000-80-0-0.jpg",
+      "checksum": "8e467dfd3df521dacefca4d43a4d8987",
+      "tracklist": "https://api.deezer.com/playlist/1479458365/tracks",
+      "creation_date": "2025-02-14 09:12:47",
+      "md5_image": "c80dc16acc9ee0612e2a539b01a89bc5",
+      "picture_type": "playlist",
+      "position": 3,
+      "user": {
+        "id": 637006841,
+        "name": "Charts Team",
+        "tracklist": "https://api.deezer.com/user/637006841/flow",
+        "type": "user"
+      },
+      "type": "playlist"
+    },
+    {
+      "id": 1282495565,
+      "title": "Indie Sunrise",
+      "public": true,
+      "nb_tracks": 50,
+      "link": "https://www.deezer.com/playlist/1282495565",
+      "picture": "https://api.deezer.com/playlist/1282495565/image",
+      "picture_small": "https://cdn-images.dzcdn.net/images/playlist/6b588cbba4980665117764a5dabd3743/56x56-000000-80-0-0.jpg",
+      "picture_medium": "https://cdn-images.dzcdn.net/images/playlist/6b588cbba4980665117764a5dabd3743/250x250-000000-80-0-0.jpg",
+      "picture_big": "https://cdn-images.dzcdn.net/images/playlist/6b588cbba4980665117764a5dabd3743/500x500-000000-80-0-0.jpg",
+      "picture_xl": "https://cdn-images.dzcdn.net/images/playlist/6b588cbba4980665117764a5dabd3743/1000x1000-000000-80-0-0.jpg",
+      "checksum": "6ae3c4756564785e7f01530d636e9697",
+      "tracklist": "https://api.deezer.com/playlist/1282495565/tracks",
+      "creation_date": "2025-02-14 09:12:47",
+      "md5_image": "6b588cbba4980665117764a5dabd3743",
+      "picture_type": "playlist",
+      "position": 4,
+      "user": {
+        "id": 637006841,
+        "name": "Charts Team",
+        "tracklist": "https://api.deezer.com/user/637006841/flow",
+        "type": "user"
+      },
+      "type": "playlist"
+    },
+    {
+      "id": 1996494362,
+      "title": "Hit Repeat",
+      "public": true,
+      "nb_tracks": 80,
+      "link": "https://www.deezer.com/playlist/1996494362",
+      "picture": "https://api.deezer.com/playlist/1996494362/image",
+      "picture_small": "https://cdn-images.dzcdn.net/images/playlist/bfd5fb4e79a734bc12e761dabd8fcd8e/56x56-000000-80-0-0.jpg",
+      "picture_medium": "https://cdn-images.dzcdn.net/images/playlist/bfd5fb4e79a734bc12e761dabd8fcd8e/250x250-000000-80-0-0.jpg",
+      "picture_big": "https://cdn-images.dzcdn.net/images/playlist/bfd5fb4e79a734bc12e761dabd8fcd8e/500x500-000000-80-0-0.jpg",
+      "picture_xl": "https://cdn-images.dzcdn.net/images/playlist/bfd5fb4e79a734bc12e761dabd8fcd8e/1000x1000-000000-80-0-0.jpg",
+      "checksum": "a1b55d24689db0d6f55bb2fc1eca6318",
+      "tracklist": "https://api.deezer.com/playlist/1996494362/tracks",
+      "creation_date": "2025-02-14 09:12:47",
+      "md5_image": "bfd5fb4e79a734bc12e761dabd8fcd8e",
+      "picture_type": "playlist",
+      "position": 5,
+      "user": {
+        "id": 637006841,
+        "name": "Charts Team",
+        "tracklist": "https://api.deezer.com/user/637006841/flow",
+        "type": "user"
+      },
+      "type": "playlist"
+    }
+  ],
+  "total": 5
+}

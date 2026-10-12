@@ -1,0 +1,18 @@
+{
+  "data": [
+    {
+      "id": 37151,
+      "title": "Pop Hits",
+      "description": "Pop Hits",
+      "share": "https://www.deezer.com/mixes/genre/37151?utm_source=deezer&utm_content=mixes-genre-37151&utm_medium=web",
+      "picture": "https://api.deezer.com/radio/37151/image",
+      "picture_small": "https://cdn-images.dzcdn.net/images/misc/4a042ce82962e3d263cf9eb085405f47/56x56-000000-80-0-0.jpg",
+      "picture_medium": "https://cdn-images.dzcdn.net/images/misc/4a042ce82962e3d263cf9eb085405f47/250x250-000000-80-0-0.jpg",
+      "picture_big": "https://cdn-images.dzcdn.net/images/misc/4a042ce82962e3d263cf9eb085405f47/500x500-000000-80-0-0.jpg",
+      "picture_xl": "https://cdn-images.dzcdn.net/images/misc/4a042ce82962e3d263cf9eb085405f47/1000x1000-000000-80-0-0.jpg",
+      "tracklist": "https://api.deezer.com/radio/37151/tracks",
+      "md5_image": "4a042ce82962e3d263cf9eb085405f47",
+      "type": "radio"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "data": [
+    {
+      "id": 622018774,
+      "title": "Harbor Season",
+      "link": "https://www.deezer.com/album/622018774",
+      "cover": "https://api.deezer.com/album/622018774/image",
+      "cover_small": "https://cdn-images.dzcdn.net/images/cover/ef0df81be352d63c4f38d5219ccfe34b/56x56-000000-80-0-0.jpg",
+      "cover_medium": "https://cdn-images.dzcdn.net/images/cover/ef0df81be352d63c4f38d5219ccfe34b/250x250-000000-80-0-0.jpg",
+      "cover_big": "https://cdn-images.dzcdn.net/images/cover/ef0df81be352d63c4f38d5219ccfe34b/500x500-000000-80-0-0.jpg",
+      "cover_xl": "https://cdn-images.dzcdn.net/images/cover/ef0df81be352d63c4f38d5219ccfe34b/1000x1000-000000-80-0-0.jpg",
+      "md5_image": "ef0df81be352d63c4f38d5219ccfe34b",
+      "genre_id": 132,
+      "fans": 80936,
+      "release_date": "2026-09-11",
+      "record_type": "album",
+      "tracklist": "https://api.deezer.com/album/622018774/tracks",
+      "explicit_lyrics": false,
+      "type": "album"
+    }
+  ],
+  "total": 1
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4410981,
+  "name": "Solenne",
+  "link": "https://www.deezer.com/artist/4410981",
+  "picture": "https://api.deezer.com/artist/4410981/image",
+  "picture_small": "https://cdn-images.dzcdn.net/images/artist/617ea0bbc16f906c67621e6bd438e149/56x56-000000-80-0-0.jpg",
+  "picture_medium": "https://cdn-images.dzcdn.net/images/artist/617ea0bbc16f906c67621e6bd438e149/250x250-000000-80-0-0.jpg",
+  "picture_big": "https://cdn-images.dzcdn.net/images/artist/617ea0bbc16f906c67621e6bd438e149/500x500-000000-80-0-0.jpg",
+  "picture_xl": "https://cdn-images.dzcdn.net/images/artist/617ea0bbc16f906c67621e6bd438e149/1000x1000-000000-80-0-0.jpg",
+  "share": "https://www.deezer.com/artist/4410981?utm_source=deezer&utm_content=artist-4410981&utm_medium=web",
+  "nb_album": 1,
+  "nb_fan": 455102,
+  "radio": true,
+  "tracklist": "https://api.deezer.com/artist/4410981/top?limit=50",
+  "type": "artist"
+}

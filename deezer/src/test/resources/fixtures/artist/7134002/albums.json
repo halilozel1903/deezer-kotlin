@@ -1,0 +1,23 @@
+{
+  "data": [
+    {
+      "id": 620447810,
+      "title": "Tidewater",
+      "link": "https://www.deezer.com/album/620447810",
+      "cover": "https://api.deezer.com/album/620447810/image",
+      "cover_small": "https://cdn-images.dzcdn.net/images/cover/83fef30133a05a23402ec2f2b94723b1/56x56-000000-80-0-0.jpg",
+      "cover_medium": "https://cdn-images.dzcdn.net/images/cover/83fef30133a05a23402ec2f2b94723b1/250x250-000000-80-0-0.jpg",
+      "cover_big": "https://cdn-images.dzcdn.net/images/cover/83fef30133a05a23402ec2f2b94723b1/500x500-000000-80-0-0.jpg",
+      "cover_xl": "https://cdn-images.dzcdn.net/images/cover/83fef30133a05a23402ec2f2b94723b1/1000x1000-000000-80-0-0.jpg",
+      "md5_image": "83fef30133a05a23402ec2f2b94723b1",
+      "genre_id": 85,
+      "fans": 9955,
+      "release_date": "2026-08-29",
+      "record_type": "album",
+      "tracklist": "https://api.deezer.com/album/620447810/tracks",
+      "explicit_lyrics": false,
+      "type": "album"
+    }
+  ],
+  "total": 1
+}

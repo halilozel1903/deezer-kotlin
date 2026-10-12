@@ -1,0 +1,16 @@
+{
+  "id": 6650412,
+  "name": "Velvet Static",
+  "link": "https://www.deezer.com/artist/6650412",
+  "picture": "https://api.deezer.com/artist/6650412/image",
+  "picture_small": "https://cdn-images.dzcdn.net/images/artist/b8fcf28a29b69ab4718d2c9919efb803/56x56-000000-80-0-0.jpg",
+  "picture_medium": "https://cdn-images.dzcdn.net/images/artist/b8fcf28a29b69ab4718d2c9919efb803/250x250-000000-80-0-0.jpg",
+  "picture_big": "https://cdn-images.dzcdn.net/images/artist/b8fcf28a29b69ab4718d2c9919efb803/500x500-000000-80-0-0.jpg",
+  "picture_xl": "https://cdn-images.dzcdn.net/images/artist/b8fcf28a29b69ab4718d2c9919efb803/1000x1000-000000-80-0-0.jpg",
+  "share": "https://www.deezer.com/artist/6650412?utm_source=deezer&utm_content=artist-6650412&utm_medium=web",
+  "nb_album": 1,
+  "nb_fan": 156903,
+  "radio": true,
+  "tracklist": "https://api.deezer.com/artist/6650412/top?limit=50",
+  "type": "artist"
+}

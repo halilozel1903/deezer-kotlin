@@ -1,0 +1,23 @@
+{
+  "data": [
+    {
+      "id": 604887251,
+      "title": "Blue Hour Sessions",
+      "link": "https://www.deezer.com/album/604887251",
+      "cover": "https://api.deezer.com/album/604887251/image",
+      "cover_small": "https://cdn-images.dzcdn.net/images/cover/462f86e9a51453d68302e9b4280688c4/56x56-000000-80-0-0.jpg",
+      "cover_medium": "https://cdn-images.dzcdn.net/images/cover/462f86e9a51453d68302e9b4280688c4/250x250-000000-80-0-0.jpg",
+      "cover_big": "https://cdn-images.dzcdn.net/images/cover/462f86e9a51453d68302e9b4280688c4/500x500-000000-80-0-0.jpg",
+      "cover_xl": "https://cdn-images.dzcdn.net/images/cover/462f86e9a51453d68302e9b4280688c4/1000x1000-000000-80-0-0.jpg",
+      "md5_image": "462f86e9a51453d68302e9b4280688c4",
+      "genre_id": 129,
+      "fans": 86670,
+      "release_date": "2025-11-14",
+      "record_type": "album",
+      "tracklist": "https://api.deezer.com/album/604887251/tracks",
+      "explicit_lyrics": false,
+      "type": "album"
+    }
+  ],
+  "total": 1
+}

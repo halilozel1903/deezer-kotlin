@@ -1,0 +1,23 @@
+{
+  "data": [
+    {
+      "id": 618330442,
+      "title": "Iron & Ivory",
+      "link": "https://www.deezer.com/album/618330442",
+      "cover": "https://api.deezer.com/album/618330442/image",
+      "cover_small": "https://cdn-images.dzcdn.net/images/cover/857906bc4a2199b2d32bc4329f9f279b/56x56-000000-80-0-0.jpg",
+      "cover_medium": "https://cdn-images.dzcdn.net/images/cover/857906bc4a2199b2d32bc4329f9f279b/250x250-000000-80-0-0.jpg",
+      "cover_big": "https://cdn-images.dzcdn.net/images/cover/857906bc4a2199b2d32bc4329f9f279b/500x500-000000-80-0-0.jpg",
+      "cover_xl": "https://cdn-images.dzcdn.net/images/cover/857906bc4a2199b2d32bc4329f9f279b/1000x1000-000000-80-0-0.jpg",
+      "md5_image": "857906bc4a2199b2d32bc4329f9f279b",
+      "genre_id": 152,
+      "fans": 26051,
+      "release_date": "2026-07-17",
+      "record_type": "album",
+      "tracklist": "https://api.deezer.com/album/618330442/tracks",
+      "explicit_lyrics": false,
+      "type": "album"
+    }
+  ],
+  "total": 1
+}

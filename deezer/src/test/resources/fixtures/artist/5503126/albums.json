@@ -1,0 +1,23 @@
+{
+  "data": [
+    {
+      "id": 616009834,
+      "title": "Basement Tapes",
+      "link": "https://www.deezer.com/album/616009834",
+      "cover": "https://api.deezer.com/album/616009834/image",
+      "cover_small": "https://cdn-images.dzcdn.net/images/cover/88656ede4000902f48deaef69878a15b/56x56-000000-80-0-0.jpg",
+      "cover_medium": "https://cdn-images.dzcdn.net/images/cover/88656ede4000902f48deaef69878a15b/250x250-000000-80-0-0.jpg",
+      "cover_big": "https://cdn-images.dzcdn.net/images/cover/88656ede4000902f48deaef69878a15b/500x500-000000-80-0-0.jpg",
+      "cover_xl": "https://cdn-images.dzcdn.net/images/cover/88656ede4000902f48deaef69878a15b/1000x1000-000000-80-0-0.jpg",
+      "md5_image": "88656ede4000902f48deaef69878a15b",
+      "genre_id": 152,
+      "fans": 4250,
+      "release_date": "2026-04-10",
+      "record_type": "album",
+      "tracklist": "https://api.deezer.com/album/616009834/tracks",
+      "explicit_lyrics": false,
+      "type": "album"
+    }
+  ],
+  "total": 1
+}

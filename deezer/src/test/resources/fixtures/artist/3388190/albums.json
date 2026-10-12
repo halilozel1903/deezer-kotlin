@@ -1,0 +1,23 @@
+{
+  "data": [
+    {
+      "id": 623551908,
+      "title": "Crown Heights",
+      "link": "https://www.deezer.com/album/623551908",
+      "cover": "https://api.deezer.com/album/623551908/image",
+      "cover_small": "https://cdn-images.dzcdn.net/images/cover/33c2694d21bd9b7551443199f68fbca5/56x56-000000-80-0-0.jpg",
+      "cover_medium": "https://cdn-images.dzcdn.net/images/cover/33c2694d21bd9b7551443199f68fbca5/250x250-000000-80-0-0.jpg",
+      "cover_big": "https://cdn-images.dzcdn.net/images/cover/33c2694d21bd9b7551443199f68fbca5/500x500-000000-80-0-0.jpg",
+      "cover_xl": "https://cdn-images.dzcdn.net/images/cover/33c2694d21bd9b7551443199f68fbca5/1000x1000-000000-80-0-0.jpg",
+      "md5_image": "33c2694d21bd9b7551443199f68fbca5",
+      "genre_id": 116,
+      "fans": 33069,
+      "release_date": "2026-09-25",
+      "record_type": "album",
+      "tracklist": "https://api.deezer.com/album/623551908/tracks",
+      "explicit_lyrics": false,
+      "type": "album"
+    }
+  ],
+  "total": 1
+}

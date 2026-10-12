@@ -1,0 +1,16 @@
+{
+  "id": 1187263,
+  "name": "Aria Lund",
+  "link": "https://www.deezer.com/artist/1187263",
+  "picture": "https://api.deezer.com/artist/1187263/image",
+  "picture_small": "https://cdn-images.dzcdn.net/images/artist/5e87d754465b39cfa0475fc918e4ae2d/56x56-000000-80-0-0.jpg",
+  "picture_medium": "https://cdn-images.dzcdn.net/images/artist/5e87d754465b39cfa0475fc918e4ae2d/250x250-000000-80-0-0.jpg",
+  "picture_big": "https://cdn-images.dzcdn.net/images/artist/5e87d754465b39cfa0475fc918e4ae2d/500x500-000000-80-0-0.jpg",
+  "picture_xl": "https://cdn-images.dzcdn.net/images/artist/5e87d754465b39cfa0475fc918e4ae2d/1000x1000-000000-80-0-0.jpg",
+  "share": "https://www.deezer.com/artist/1187263?utm_source=deezer&utm_content=artist-1187263&utm_medium=web",
+  "nb_album": 1,
+  "nb_fan": 98417,
+  "radio": true,
+  "tracklist": "https://api.deezer.com/artist/1187263/top?limit=50",
+  "type": "artist"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 7781240,
+  "name": "Nova Reyes",
+  "link": "https://www.deezer.com/artist/7781240",
+  "picture": "https://api.deezer.com/artist/7781240/image",
+  "picture_small": "https://cdn-images.dzcdn.net/images/artist/8ceaf33a4fb2dc6a834c03b21d152c72/56x56-000000-80-0-0.jpg",
+  "picture_medium": "https://cdn-images.dzcdn.net/images/artist/8ceaf33a4fb2dc6a834c03b21d152c72/250x250-000000-80-0-0.jpg",
+  "picture_big": "https://cdn-images.dzcdn.net/images/artist/8ceaf33a4fb2dc6a834c03b21d152c72/500x500-000000-80-0-0.jpg",
+  "picture_xl": "https://cdn-images.dzcdn.net/images/artist/8ceaf33a4fb2dc6a834c03b21d152c72/1000x1000-000000-80-0-0.jpg",
+  "share": "https://www.deezer.com/artist/7781240?utm_source=deezer&utm_content=artist-7781240&utm_medium=web",
+  "nb_album": 2,
+  "nb_fan": 1045872,
+  "radio": true,
+  "tracklist": "https://api.deezer.com/artist/7781240/top?limit=50",
+  "type": "artist"
+}

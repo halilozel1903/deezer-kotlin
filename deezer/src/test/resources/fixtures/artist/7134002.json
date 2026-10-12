@@ -1,0 +1,16 @@
+{
+  "id": 7134002,
+  "name": "Juniper Coast",
+  "link": "https://www.deezer.com/artist/7134002",
+  "picture": "https://api.deezer.com/artist/7134002/image",
+  "picture_small": "https://cdn-images.dzcdn.net/images/artist/f8ce5084fe813e02173cb2d4b8199b09/56x56-000000-80-0-0.jpg",
+  "picture_medium": "https://cdn-images.dzcdn.net/images/artist/f8ce5084fe813e02173cb2d4b8199b09/250x250-000000-80-0-0.jpg",
+  "picture_big": "https://cdn-images.dzcdn.net/images/artist/f8ce5084fe813e02173cb2d4b8199b09/500x500-000000-80-0-0.jpg",
+  "picture_xl": "https://cdn-images.dzcdn.net/images/artist/f8ce5084fe813e02173cb2d4b8199b09/1000x1000-000000-80-0-0.jpg",
+  "share": "https://www.deezer.com/artist/7134002?utm_source=deezer&utm_content=artist-7134002&utm_medium=web",
+  "nb_album": 1,
+  "nb_fan": 642870,
+  "radio": true,
+  "tracklist": "https://api.deezer.com/artist/7134002/top?limit=50",
+  "type": "artist"
+}

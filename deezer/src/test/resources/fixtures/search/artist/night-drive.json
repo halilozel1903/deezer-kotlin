@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 9002317,
+      "name": "Midnight Ferry",
+      "link": "https://www.deezer.com/artist/9002317",
+      "picture": "https://api.deezer.com/artist/9002317/image",
+      "picture_small": "https://cdn-images.dzcdn.net/images/artist/07d44cd78895b3888399fa42a3ba946e/56x56-000000-80-0-0.jpg",
+      "picture_medium": "https://cdn-images.dzcdn.net/images/artist/07d44cd78895b3888399fa42a3ba946e/250x250-000000-80-0-0.jpg",
+      "picture_big": "https://cdn-images.dzcdn.net/images/artist/07d44cd78895b3888399fa42a3ba946e/500x500-000000-80-0-0.jpg",
+      "picture_xl": "https://cdn-images.dzcdn.net/images/artist/07d44cd78895b3888399fa42a3ba946e/1000x1000-000000-80-0-0.jpg",
+      "nb_album": 1,
+      "nb_fan": 388664,
+      "radio": true,
+      "tracklist": "https://api.deezer.com/artist/9002317/top?limit=50",
+      "type": "artist"
+    },
+    {
+      "id": 6650412,
+      "name": "Velvet Static",
+      "link": "https://www.deezer.com/artist/6650412",
+      "picture": "https://api.deezer.com/artist/6650412/image",
+      "picture_small": "https://cdn-images.dzcdn.net/images/artist/b8fcf28a29b69ab4718d2c9919efb803/56x56-000000-80-0-0.jpg",
+      "picture_medium": "https://cdn-images.dzcdn.net/images/artist/b8fcf28a29b69ab4718d2c9919efb803/250x250-000000-80-0-0.jpg",
+      "picture_big": "https://cdn-images.dzcdn.net/images/artist/b8fcf28a29b69ab4718d2c9919efb803/500x500-000000-80-0-0.jpg",
+      "picture_xl": "https://cdn-images.dzcdn.net/images/artist/b8fcf28a29b69ab4718d2c9919efb803/1000x1000-000000-80-0-0.jpg",
+      "nb_album": 1,
+      "nb_fan": 156903,
+      "radio": true,
+      "tracklist": "https://api.deezer.com/artist/6650412/top?limit=50",
+      "type": "artist"
+    }
+  ],
+  "total": 2
+}

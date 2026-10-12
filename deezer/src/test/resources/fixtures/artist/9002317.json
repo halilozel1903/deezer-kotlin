@@ -1,0 +1,16 @@
+{
+  "id": 9002317,
+  "name": "Midnight Ferry",
+  "link": "https://www.deezer.com/artist/9002317",
+  "picture": "https://api.deezer.com/artist/9002317/image",
+  "picture_small": "https://cdn-images.dzcdn.net/images/artist/07d44cd78895b3888399fa42a3ba946e/56x56-000000-80-0-0.jpg",
+  "picture_medium": "https://cdn-images.dzcdn.net/images/artist/07d44cd78895b3888399fa42a3ba946e/250x250-000000-80-0-0.jpg",
+  "picture_big": "https://cdn-images.dzcdn.net/images/artist/07d44cd78895b3888399fa42a3ba946e/500x500-000000-80-0-0.jpg",
+  "picture_xl": "https://cdn-images.dzcdn.net/images/artist/07d44cd78895b3888399fa42a3ba946e/1000x1000-000000-80-0-0.jpg",
+  "share": "https://www.deezer.com/artist/9002317?utm_source=deezer&utm_content=artist-9002317&utm_medium=web",
+  "nb_album": 1,
+  "nb_fan": 388664,
+  "radio": true,
+  "tracklist": "https://api.deezer.com/artist/9002317/top?limit=50",
+  "type": "artist"
+}

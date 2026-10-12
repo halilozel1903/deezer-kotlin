@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK" />
+
+    <application>
+        <!--
+            Android Auto only loads artwork from content:// urls. This provider downloads Deezer images into the cache
+            and serves them; it only fetches images from Deezer's hosts.
+        -->
+        <provider
+            android:name="io.github.halilozel1903.deezer.media.DeezerArtworkProvider"
+            android:authorities="${applicationId}.deezer.artwork"
+            android:exported="true" />
+    </application>
+
+</manifest>

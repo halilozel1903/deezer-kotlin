@@ -1,0 +1,23 @@
+{
+  "data": [
+    {
+      "id": 619004311,
+      "title": "Night Drive",
+      "link": "https://www.deezer.com/album/619004311",
+      "cover": "https://api.deezer.com/album/619004311/image",
+      "cover_small": "https://cdn-images.dzcdn.net/images/cover/b7016920e2fdce82214520f05d28fb7c/56x56-000000-80-0-0.jpg",
+      "cover_medium": "https://cdn-images.dzcdn.net/images/cover/b7016920e2fdce82214520f05d28fb7c/250x250-000000-80-0-0.jpg",
+      "cover_big": "https://cdn-images.dzcdn.net/images/cover/b7016920e2fdce82214520f05d28fb7c/500x500-000000-80-0-0.jpg",
+      "cover_xl": "https://cdn-images.dzcdn.net/images/cover/b7016920e2fdce82214520f05d28fb7c/1000x1000-000000-80-0-0.jpg",
+      "md5_image": "b7016920e2fdce82214520f05d28fb7c",
+      "genre_id": 106,
+      "fans": 22992,
+      "release_date": "2026-08-08",
+      "record_type": "album",
+      "tracklist": "https://api.deezer.com/album/619004311/tracks",
+      "explicit_lyrics": false,
+      "type": "album"
+    }
+  ],
+  "total": 1
+}

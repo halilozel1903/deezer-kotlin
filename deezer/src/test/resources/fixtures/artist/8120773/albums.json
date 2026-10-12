@@ -1,0 +1,23 @@
+{
+  "data": [
+    {
+      "id": 615672003,
+      "title": "Paper Boats",
+      "link": "https://www.deezer.com/album/615672003",
+      "cover": "https://api.deezer.com/album/615672003/image",
+      "cover_small": "https://cdn-images.dzcdn.net/images/cover/09218c198d7f81d0c006cde0347de041/56x56-000000-80-0-0.jpg",
+      "cover_medium": "https://cdn-images.dzcdn.net/images/cover/09218c198d7f81d0c006cde0347de041/250x250-000000-80-0-0.jpg",
+      "cover_big": "https://cdn-images.dzcdn.net/images/cover/09218c198d7f81d0c006cde0347de041/500x500-000000-80-0-0.jpg",
+      "cover_xl": "https://cdn-images.dzcdn.net/images/cover/09218c198d7f81d0c006cde0347de041/1000x1000-000000-80-0-0.jpg",
+      "md5_image": "09218c198d7f81d0c006cde0347de041",
+      "genre_id": 85,
+      "fans": 61870,
+      "release_date": "2026-05-22",
+      "record_type": "ep",
+      "tracklist": "https://api.deezer.com/album/615672003/tracks",
+      "explicit_lyrics": false,
+      "type": "album"
+    }
+  ],
+  "total": 1
+}

@@ -1,0 +1,65 @@
+{
+  "data": [
+    {
+      "id": 619004311,
+      "title": "Night Drive",
+      "link": "https://www.deezer.com/album/619004311",
+      "cover": "https://api.deezer.com/album/619004311/image",
+      "cover_small": "https://cdn-images.dzcdn.net/images/cover/b7016920e2fdce82214520f05d28fb7c/56x56-000000-80-0-0.jpg",
+      "cover_medium": "https://cdn-images.dzcdn.net/images/cover/b7016920e2fdce82214520f05d28fb7c/250x250-000000-80-0-0.jpg",
+      "cover_big": "https://cdn-images.dzcdn.net/images/cover/b7016920e2fdce82214520f05d28fb7c/500x500-000000-80-0-0.jpg",
+      "cover_xl": "https://cdn-images.dzcdn.net/images/cover/b7016920e2fdce82214520f05d28fb7c/1000x1000-000000-80-0-0.jpg",
+      "md5_image": "b7016920e2fdce82214520f05d28fb7c",
+      "genre_id": 106,
+      "release_date": "2026-08-08",
+      "record_type": "album",
+      "tracklist": "https://api.deezer.com/album/619004311/tracks",
+      "explicit_lyrics": false,
+      "artist": {
+        "id": 9002317,
+        "name": "Midnight Ferry",
+        "link": "https://www.deezer.com/artist/9002317",
+        "picture": "https://api.deezer.com/artist/9002317/image",
+        "picture_small": "https://cdn-images.dzcdn.net/images/artist/07d44cd78895b3888399fa42a3ba946e/56x56-000000-80-0-0.jpg",
+        "picture_medium": "https://cdn-images.dzcdn.net/images/artist/07d44cd78895b3888399fa42a3ba946e/250x250-000000-80-0-0.jpg",
+        "picture_big": "https://cdn-images.dzcdn.net/images/artist/07d44cd78895b3888399fa42a3ba946e/500x500-000000-80-0-0.jpg",
+        "picture_xl": "https://cdn-images.dzcdn.net/images/artist/07d44cd78895b3888399fa42a3ba946e/1000x1000-000000-80-0-0.jpg",
+        "radio": true,
+        "tracklist": "https://api.deezer.com/artist/9002317/top?limit=50",
+        "type": "artist"
+      },
+      "type": "album"
+    },
+    {
+      "id": 617250369,
+      "title": "Analog Dreams",
+      "link": "https://www.deezer.com/album/617250369",
+      "cover": "https://api.deezer.com/album/617250369/image",
+      "cover_small": "https://cdn-images.dzcdn.net/images/cover/67ced7cdc92e246fd5b1babc85696449/56x56-000000-80-0-0.jpg",
+      "cover_medium": "https://cdn-images.dzcdn.net/images/cover/67ced7cdc92e246fd5b1babc85696449/250x250-000000-80-0-0.jpg",
+      "cover_big": "https://cdn-images.dzcdn.net/images/cover/67ced7cdc92e246fd5b1babc85696449/500x500-000000-80-0-0.jpg",
+      "cover_xl": "https://cdn-images.dzcdn.net/images/cover/67ced7cdc92e246fd5b1babc85696449/1000x1000-000000-80-0-0.jpg",
+      "md5_image": "67ced7cdc92e246fd5b1babc85696449",
+      "genre_id": 106,
+      "release_date": "2026-06-27",
+      "record_type": "album",
+      "tracklist": "https://api.deezer.com/album/617250369/tracks",
+      "explicit_lyrics": false,
+      "artist": {
+        "id": 6650412,
+        "name": "Velvet Static",
+        "link": "https://www.deezer.com/artist/6650412",
+        "picture": "https://api.deezer.com/artist/6650412/image",
+        "picture_small": "https://cdn-images.dzcdn.net/images/artist/b8fcf28a29b69ab4718d2c9919efb803/56x56-000000-80-0-0.jpg",
+        "picture_medium": "https://cdn-images.dzcdn.net/images/artist/b8fcf28a29b69ab4718d2c9919efb803/250x250-000000-80-0-0.jpg",
+        "picture_big": "https://cdn-images.dzcdn.net/images/artist/b8fcf28a29b69ab4718d2c9919efb803/500x500-000000-80-0-0.jpg",
+        "picture_xl": "https://cdn-images.dzcdn.net/images/artist/b8fcf28a29b69ab4718d2c9919efb803/1000x1000-000000-80-0-0.jpg",
+        "radio": true,
+        "tracklist": "https://api.deezer.com/artist/6650412/top?limit=50",
+        "type": "artist"
+      },
+      "type": "album"
+    }
+  ],
+  "total": 2
+}

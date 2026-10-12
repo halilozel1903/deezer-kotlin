@@ -1,0 +1,16 @@
+{
+  "id": 3388190,
+  "name": "Rafi Okoro",
+  "link": "https://www.deezer.com/artist/3388190",
+  "picture": "https://api.deezer.com/artist/3388190/image",
+  "picture_small": "https://cdn-images.dzcdn.net/images/artist/43222405b410033a0122a200f02a756f/56x56-000000-80-0-0.jpg",
+  "picture_medium": "https://cdn-images.dzcdn.net/images/artist/43222405b410033a0122a200f02a756f/250x250-000000-80-0-0.jpg",
+  "picture_big": "https://cdn-images.dzcdn.net/images/artist/43222405b410033a0122a200f02a756f/500x500-000000-80-0-0.jpg",
+  "picture_xl": "https://cdn-images.dzcdn.net/images/artist/43222405b410033a0122a200f02a756f/1000x1000-000000-80-0-0.jpg",
+  "share": "https://www.deezer.com/artist/3388190?utm_source=deezer&utm_content=artist-3388190&utm_medium=web",
+  "nb_album": 1,
+  "nb_fan": 1902455,
+  "radio": true,
+  "tracklist": "https://api.deezer.com/artist/3388190/top?limit=50",
+  "type": "artist"
+}

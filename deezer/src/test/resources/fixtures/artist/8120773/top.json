@@ -1,0 +1,179 @@
+{
+  "data": [
+    {
+      "id": 3401236310,
+      "readable": true,
+      "title": "Paper Boats",
+      "title_short": "Paper Boats",
+      "title_version": "",
+      "link": "https://www.deezer.com/track/3401236310",
+      "duration": 184,
+      "rank": 444799,
+      "explicit_lyrics": false,
+      "explicit_content_lyrics": 0,
+      "explicit_content_cover": 0,
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/3/1/0/13168eab705de92e6873d7926426de83.mp3?hdnea=exp=1791500000~acl=/api/1/1/1/3/1/0/13168eab705de92e6873d7926426de83.mp3*~data=user_id=0,application_id=42~hmac=bed6fc2be83cecdf120b966dafa4507e18d0851130ffd912ba3cf46e0561b738",
+      "md5_image": "09218c198d7f81d0c006cde0347de041",
+      "contributors": [
+        {
+          "id": 8120773,
+          "name": "Lumen & Lake",
+          "link": "https://www.deezer.com/artist/8120773",
+          "picture": "https://api.deezer.com/artist/8120773/image",
+          "picture_small": "https://cdn-images.dzcdn.net/images/artist/8bffdba9a1cc285c9aa7b383264de832/56x56-000000-80-0-0.jpg",
+          "picture_medium": "https://cdn-images.dzcdn.net/images/artist/8bffdba9a1cc285c9aa7b383264de832/250x250-000000-80-0-0.jpg",
+          "picture_big": "https://cdn-images.dzcdn.net/images/artist/8bffdba9a1cc285c9aa7b383264de832/500x500-000000-80-0-0.jpg",
+          "picture_xl": "https://cdn-images.dzcdn.net/images/artist/8bffdba9a1cc285c9aa7b383264de832/1000x1000-000000-80-0-0.jpg",
+          "radio": true,
+          "tracklist": "https://api.deezer.com/artist/8120773/top?limit=50",
+          "type": "artist",
+          "share": "https://www.deezer.com/artist/8120773?utm_source=deezer&utm_content=artist-8120773&utm_medium=web",
+          "role": "Main"
+        }
+      ],
+      "artist": {
+        "id": 8120773,
+        "name": "Lumen & Lake",
+        "link": "https://www.deezer.com/artist/8120773",
+        "picture": "https://api.deezer.com/artist/8120773/image",
+        "picture_small": "https://cdn-images.dzcdn.net/images/artist/8bffdba9a1cc285c9aa7b383264de832/56x56-000000-80-0-0.jpg",
+        "picture_medium": "https://cdn-images.dzcdn.net/images/artist/8bffdba9a1cc285c9aa7b383264de832/250x250-000000-80-0-0.jpg",
+        "picture_big": "https://cdn-images.dzcdn.net/images/artist/8bffdba9a1cc285c9aa7b383264de832/500x500-000000-80-0-0.jpg",
+        "picture_xl": "https://cdn-images.dzcdn.net/images/artist/8bffdba9a1cc285c9aa7b383264de832/1000x1000-000000-80-0-0.jpg",
+        "radio": true,
+        "tracklist": "https://api.deezer.com/artist/8120773/top?limit=50",
+        "type": "artist"
+      },
+      "album": {
+        "id": 615672003,
+        "title": "Paper Boats",
+        "cover": "https://api.deezer.com/album/615672003/image",
+        "cover_small": "https://cdn-images.dzcdn.net/images/cover/09218c198d7f81d0c006cde0347de041/56x56-000000-80-0-0.jpg",
+        "cover_medium": "https://cdn-images.dzcdn.net/images/cover/09218c198d7f81d0c006cde0347de041/250x250-000000-80-0-0.jpg",
+        "cover_big": "https://cdn-images.dzcdn.net/images/cover/09218c198d7f81d0c006cde0347de041/500x500-000000-80-0-0.jpg",
+        "cover_xl": "https://cdn-images.dzcdn.net/images/cover/09218c198d7f81d0c006cde0347de041/1000x1000-000000-80-0-0.jpg",
+        "md5_image": "09218c198d7f81d0c006cde0347de041",
+        "tracklist": "https://api.deezer.com/album/615672003/tracks",
+        "type": "album"
+      },
+      "type": "track"
+    },
+    {
+      "id": 3401236848,
+      "readable": true,
+      "title": "Shoreline",
+      "title_short": "Shoreline",
+      "title_version": "",
+      "link": "https://www.deezer.com/track/3401236848",
+      "duration": 156,
+      "rank": 420738,
+      "explicit_lyrics": false,
+      "explicit_content_lyrics": 0,
+      "explicit_content_cover": 0,
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/9/a/0/f9a1c415861610b51f6e9d6e05612f46.mp3?hdnea=exp=1791500000~acl=/api/1/1/f/9/a/0/f9a1c415861610b51f6e9d6e05612f46.mp3*~data=user_id=0,application_id=42~hmac=f9fc612cea89645253e9472dd54a511c63b38d1f47b97ba80bceecebeee9cb67",
+      "md5_image": "09218c198d7f81d0c006cde0347de041",
+      "contributors": [
+        {
+          "id": 8120773,
+          "name": "Lumen & Lake",
+          "link": "https://www.deezer.com/artist/8120773",
+          "picture": "https://api.deezer.com/artist/8120773/image",
+          "picture_small": "https://cdn-images.dzcdn.net/images/artist/8bffdba9a1cc285c9aa7b383264de832/56x56-000000-80-0-0.jpg",
+          "picture_medium": "https://cdn-images.dzcdn.net/images/artist/8bffdba9a1cc285c9aa7b383264de832/250x250-000000-80-0-0.jpg",
+          "picture_big": "https://cdn-images.dzcdn.net/images/artist/8bffdba9a1cc285c9aa7b383264de832/500x500-000000-80-0-0.jpg",
+          "picture_xl": "https://cdn-images.dzcdn.net/images/artist/8bffdba9a1cc285c9aa7b383264de832/1000x1000-000000-80-0-0.jpg",
+          "radio": true,
+          "tracklist": "https://api.deezer.com/artist/8120773/top?limit=50",
+          "type": "artist",
+          "share": "https://www.deezer.com/artist/8120773?utm_source=deezer&utm_content=artist-8120773&utm_medium=web",
+          "role": "Main"
+        }
+      ],
+      "artist": {
+        "id": 8120773,
+        "name": "Lumen & Lake",
+        "link": "https://www.deezer.com/artist/8120773",
+        "picture": "https://api.deezer.com/artist/8120773/image",
+        "picture_small": "https://cdn-images.dzcdn.net/images/artist/8bffdba9a1cc285c9aa7b383264de832/56x56-000000-80-0-0.jpg",
+        "picture_medium": "https://cdn-images.dzcdn.net/images/artist/8bffdba9a1cc285c9aa7b383264de832/250x250-000000-80-0-0.jpg",
+        "picture_big": "https://cdn-images.dzcdn.net/images/artist/8bffdba9a1cc285c9aa7b383264de832/500x500-000000-80-0-0.jpg",
+        "picture_xl": "https://cdn-images.dzcdn.net/images/artist/8bffdba9a1cc285c9aa7b383264de832/1000x1000-000000-80-0-0.jpg",
+        "radio": true,
+        "tracklist": "https://api.deezer.com/artist/8120773/top?limit=50",
+        "type": "artist"
+      },
+      "album": {
+        "id": 615672003,
+        "title": "Paper Boats",
+        "cover": "https://api.deezer.com/album/615672003/image",
+        "cover_small": "https://cdn-images.dzcdn.net/images/cover/09218c198d7f81d0c006cde0347de041/56x56-000000-80-0-0.jpg",
+        "cover_medium": "https://cdn-images.dzcdn.net/images/cover/09218c198d7f81d0c006cde0347de041/250x250-000000-80-0-0.jpg",
+        "cover_big": "https://cdn-images.dzcdn.net/images/cover/09218c198d7f81d0c006cde0347de041/500x500-000000-80-0-0.jpg",
+        "cover_xl": "https://cdn-images.dzcdn.net/images/cover/09218c198d7f81d0c006cde0347de041/1000x1000-000000-80-0-0.jpg",
+        "md5_image": "09218c198d7f81d0c006cde0347de041",
+        "tracklist": "https://api.deezer.com/album/615672003/tracks",
+        "type": "album"
+      },
+      "type": "track"
+    },
+    {
+      "id": 3401237218,
+      "readable": true,
+      "title": "Fog Signal",
+      "title_short": "Fog Signal",
+      "title_version": "",
+      "link": "https://www.deezer.com/track/3401237218",
+      "duration": 160,
+      "rank": 393247,
+      "explicit_lyrics": false,
+      "explicit_content_lyrics": 0,
+      "explicit_content_cover": 0,
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/f/a/0/2fae4c48b3c00720d5aa68b87f6f3b22.mp3?hdnea=exp=1791500000~acl=/api/1/1/2/f/a/0/2fae4c48b3c00720d5aa68b87f6f3b22.mp3*~data=user_id=0,application_id=42~hmac=929a653d8e6f209bbceaa734e4a1cd384a91ca8a1acb0393578775ece9645841",
+      "md5_image": "09218c198d7f81d0c006cde0347de041",
+      "contributors": [
+        {
+          "id": 8120773,
+          "name": "Lumen & Lake",
+          "link": "https://www.deezer.com/artist/8120773",
+          "picture": "https://api.deezer.com/artist/8120773/image",
+          "picture_small": "https://cdn-images.dzcdn.net/images/artist/8bffdba9a1cc285c9aa7b383264de832/56x56-000000-80-0-0.jpg",
+          "picture_medium": "https://cdn-images.dzcdn.net/images/artist/8bffdba9a1cc285c9aa7b383264de832/250x250-000000-80-0-0.jpg",
+          "picture_big": "https://cdn-images.dzcdn.net/images/artist/8bffdba9a1cc285c9aa7b383264de832/500x500-000000-80-0-0.jpg",
+          "picture_xl": "https://cdn-images.dzcdn.net/images/artist/8bffdba9a1cc285c9aa7b383264de832/1000x1000-000000-80-0-0.jpg",
+          "radio": true,
+          "tracklist": "https://api.deezer.com/artist/8120773/top?limit=50",
+          "type": "artist",
+          "share": "https://www.deezer.com/artist/8120773?utm_source=deezer&utm_content=artist-8120773&utm_medium=web",
+          "role": "Main"
+        }
+      ],
+      "artist": {
+        "id": 8120773,
+        "name": "Lumen & Lake",
+        "link": "https://www.deezer.com/artist/8120773",
+        "picture": "https://api.deezer.com/artist/8120773/image",
+        "picture_small": "https://cdn-images.dzcdn.net/images/artist/8bffdba9a1cc285c9aa7b383264de832/56x56-000000-80-0-0.jpg",
+        "picture_medium": "https://cdn-images.dzcdn.net/images/artist/8bffdba9a1cc285c9aa7b383264de832/250x250-000000-80-0-0.jpg",
+        "picture_big": "https://cdn-images.dzcdn.net/images/artist/8bffdba9a1cc285c9aa7b383264de832/500x500-000000-80-0-0.jpg",
+        "picture_xl": "https://cdn-images.dzcdn.net/images/artist/8bffdba9a1cc285c9aa7b383264de832/1000x1000-000000-80-0-0.jpg",
+        "radio": true,
+        "tracklist": "https://api.deezer.com/artist/8120773/top?limit=50",
+        "type": "artist"
+      },
+      "album": {
+        "id": 615672003,
+        "title": "Paper Boats",
+        "cover": "https://api.deezer.com/album/615672003/image",
+        "cover_small": "https://cdn-images.dzcdn.net/images/cover/09218c198d7f81d0c006cde0347de041/56x56-000000-80-0-0.jpg",
+        "cover_medium": "https://cdn-images.dzcdn.net/images/cover/09218c198d7f81d0c006cde0347de041/250x250-000000-80-0-0.jpg",
+        "cover_big": "https://cdn-images.dzcdn.net/images/cover/09218c198d7f81d0c006cde0347de041/500x500-000000-80-0-0.jpg",
+        "cover_xl": "https://cdn-images.dzcdn.net/images/cover/09218c198d7f81d0c006cde0347de041/1000x1000-000000-80-0-0.jpg",
+        "md5_image": "09218c198d7f81d0c006cde0347de041",
+        "tracklist": "https://api.deezer.com/album/615672003/tracks",
+        "type": "album"
+      },
+      "type": "track"
+    }
+  ],
+  "total": 3
+}

@@ -1,0 +1,118 @@
+{
+  "data": [
+    {
+      "id": 132,
+      "title": "Pop",
+      "radios": [
+        {
+          "id": 37151,
+          "title": "Pop Hits",
+          "description": "Pop Hits",
+          "share": "https://www.deezer.com/mixes/genre/37151?utm_source=deezer&utm_content=mixes-genre-37151&utm_medium=web",
+          "picture": "https://api.deezer.com/radio/37151/image",
+          "picture_small": "https://cdn-images.dzcdn.net/images/misc/4a042ce82962e3d263cf9eb085405f47/56x56-000000-80-0-0.jpg",
+          "picture_medium": "https://cdn-images.dzcdn.net/images/misc/4a042ce82962e3d263cf9eb085405f47/250x250-000000-80-0-0.jpg",
+          "picture_big": "https://cdn-images.dzcdn.net/images/misc/4a042ce82962e3d263cf9eb085405f47/500x500-000000-80-0-0.jpg",
+          "picture_xl": "https://cdn-images.dzcdn.net/images/misc/4a042ce82962e3d263cf9eb085405f47/1000x1000-000000-80-0-0.jpg",
+          "tracklist": "https://api.deezer.com/radio/37151/tracks",
+          "md5_image": "4a042ce82962e3d263cf9eb085405f47",
+          "type": "radio"
+        }
+      ]
+    },
+    {
+      "id": 113,
+      "title": "Dance",
+      "radios": [
+        {
+          "id": 42122,
+          "title": "Workout",
+          "description": "Workout",
+          "share": "https://www.deezer.com/mixes/genre/42122?utm_source=deezer&utm_content=mixes-genre-42122&utm_medium=web",
+          "picture": "https://api.deezer.com/radio/42122/image",
+          "picture_small": "https://cdn-images.dzcdn.net/images/misc/1b1161f76d312861d23dd3f666bbb630/56x56-000000-80-0-0.jpg",
+          "picture_medium": "https://cdn-images.dzcdn.net/images/misc/1b1161f76d312861d23dd3f666bbb630/250x250-000000-80-0-0.jpg",
+          "picture_big": "https://cdn-images.dzcdn.net/images/misc/1b1161f76d312861d23dd3f666bbb630/500x500-000000-80-0-0.jpg",
+          "picture_xl": "https://cdn-images.dzcdn.net/images/misc/1b1161f76d312861d23dd3f666bbb630/1000x1000-000000-80-0-0.jpg",
+          "tracklist": "https://api.deezer.com/radio/42122/tracks",
+          "md5_image": "1b1161f76d312861d23dd3f666bbb630",
+          "type": "radio"
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "title": "Alternative",
+      "radios": [
+        {
+          "id": 30771,
+          "title": "Chill Out",
+          "description": "Chill Out",
+          "share": "https://www.deezer.com/mixes/genre/30771?utm_source=deezer&utm_content=mixes-genre-30771&utm_medium=web",
+          "picture": "https://api.deezer.com/radio/30771/image",
+          "picture_small": "https://cdn-images.dzcdn.net/images/misc/6bff0e74ff333a191777f00852f771f1/56x56-000000-80-0-0.jpg",
+          "picture_medium": "https://cdn-images.dzcdn.net/images/misc/6bff0e74ff333a191777f00852f771f1/250x250-000000-80-0-0.jpg",
+          "picture_big": "https://cdn-images.dzcdn.net/images/misc/6bff0e74ff333a191777f00852f771f1/500x500-000000-80-0-0.jpg",
+          "picture_xl": "https://cdn-images.dzcdn.net/images/misc/6bff0e74ff333a191777f00852f771f1/1000x1000-000000-80-0-0.jpg",
+          "tracklist": "https://api.deezer.com/radio/30771/tracks",
+          "md5_image": "6bff0e74ff333a191777f00852f771f1",
+          "type": "radio"
+        },
+        {
+          "id": 31061,
+          "title": "Indie Mornings",
+          "description": "Indie Mornings",
+          "share": "https://www.deezer.com/mixes/genre/31061?utm_source=deezer&utm_content=mixes-genre-31061&utm_medium=web",
+          "picture": "https://api.deezer.com/radio/31061/image",
+          "picture_small": "https://cdn-images.dzcdn.net/images/misc/08db4f07fb87c42e5a5b98f0308c3005/56x56-000000-80-0-0.jpg",
+          "picture_medium": "https://cdn-images.dzcdn.net/images/misc/08db4f07fb87c42e5a5b98f0308c3005/250x250-000000-80-0-0.jpg",
+          "picture_big": "https://cdn-images.dzcdn.net/images/misc/08db4f07fb87c42e5a5b98f0308c3005/500x500-000000-80-0-0.jpg",
+          "picture_xl": "https://cdn-images.dzcdn.net/images/misc/08db4f07fb87c42e5a5b98f0308c3005/1000x1000-000000-80-0-0.jpg",
+          "tracklist": "https://api.deezer.com/radio/31061/tracks",
+          "md5_image": "08db4f07fb87c42e5a5b98f0308c3005",
+          "type": "radio"
+        }
+      ]
+    },
+    {
+      "id": 106,
+      "title": "Electro",
+      "radios": [
+        {
+          "id": 38305,
+          "title": "Night Drive",
+          "description": "Night Drive",
+          "share": "https://www.deezer.com/mixes/genre/38305?utm_source=deezer&utm_content=mixes-genre-38305&utm_medium=web",
+          "picture": "https://api.deezer.com/radio/38305/image",
+          "picture_small": "https://cdn-images.dzcdn.net/images/misc/6819de4d2ce1b24f256579d489abce56/56x56-000000-80-0-0.jpg",
+          "picture_medium": "https://cdn-images.dzcdn.net/images/misc/6819de4d2ce1b24f256579d489abce56/250x250-000000-80-0-0.jpg",
+          "picture_big": "https://cdn-images.dzcdn.net/images/misc/6819de4d2ce1b24f256579d489abce56/500x500-000000-80-0-0.jpg",
+          "picture_xl": "https://cdn-images.dzcdn.net/images/misc/6819de4d2ce1b24f256579d489abce56/1000x1000-000000-80-0-0.jpg",
+          "tracklist": "https://api.deezer.com/radio/38305/tracks",
+          "md5_image": "6819de4d2ce1b24f256579d489abce56",
+          "type": "radio"
+        }
+      ]
+    },
+    {
+      "id": 129,
+      "title": "Jazz",
+      "radios": [
+        {
+          "id": 30901,
+          "title": "Jazz Lounge",
+          "description": "Jazz Lounge",
+          "share": "https://www.deezer.com/mixes/genre/30901?utm_source=deezer&utm_content=mixes-genre-30901&utm_medium=web",
+          "picture": "https://api.deezer.com/radio/30901/image",
+          "picture_small": "https://cdn-images.dzcdn.net/images/misc/3930f0cf48a2acc17b421f3cf96c443b/56x56-000000-80-0-0.jpg",
+          "picture_medium": "https://cdn-images.dzcdn.net/images/misc/3930f0cf48a2acc17b421f3cf96c443b/250x250-000000-80-0-0.jpg",
+          "picture_big": "https://cdn-images.dzcdn.net/images/misc/3930f0cf48a2acc17b421f3cf96c443b/500x500-000000-80-0-0.jpg",
+          "picture_xl": "https://cdn-images.dzcdn.net/images/misc/3930f0cf48a2acc17b421f3cf96c443b/1000x1000-000000-80-0-0.jpg",
+          "tracklist": "https://api.deezer.com/radio/30901/tracks",
+          "md5_image": "3930f0cf48a2acc17b421f3cf96c443b",
+          "type": "radio"
+        }
+      ]
+    }
+  ]
+}
