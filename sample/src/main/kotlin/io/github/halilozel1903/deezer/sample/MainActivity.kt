@@ -19,7 +19,7 @@ import androidx.compose.ui.Modifier
  *
  * - `charts`: the overall charts
  * - `artist`: Daft Punk's top tracks, albums and related artists
- * - `search`: tracks and artists for "night drive"
+ * - `search`: tracks and artists for "midnight city"
  * - `car`: the car browse preview (landscape)
  */
 class MainActivity : ComponentActivity() {

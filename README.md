@@ -37,7 +37,7 @@ These are real screens: CI runs the sample on an Android emulator against the **
 
 | Charts | Artist | Search |
 | :---: | :---: | :---: |
-| <img src="docs/screenshots/phone-charts.png" alt="The Charts screen: genre filter chips, a shelf of top album covers and the numbered list of today's top tracks on Deezer" width="240"> | <img src="docs/screenshots/phone-artist.png" alt="Daft Punk's artist page: a large artist photo, fan and album counts, a Play top tracks button and the Popular tracks" width="240"> | <img src="docs/screenshots/phone-search.png" alt="A search for night drive with the Under 4 min filter: the advanced query string, matching artists and the Matching tracks list" width="240"> |
+| <img src="docs/screenshots/phone-charts.png" alt="The Charts screen: genre filter chips, a shelf of top album covers and the numbered list of today's top tracks on Deezer" width="240"> | <img src="docs/screenshots/phone-artist.png" alt="Daft Punk's artist page: a large artist photo, fan and album counts, a Play top tracks button and the Popular tracks" width="240"> | <img src="docs/screenshots/phone-search.png" alt="A search for midnight city: the query string, matching artists and the Matching tracks list" width="240"> |
 
 **Car browse preview:** the browse tree that `deezer-media` serves to Android Auto, drawn by the sample the way a car display lays it out (tabs on the side, group headers, rows). It is the same `DeezerBrowseTree` on live data, rendered by the app; it is not a capture of Android Auto itself.
 
@@ -235,7 +235,7 @@ Swipes and taps can't be timed reliably through adb, so the sample opens a fixed
 adb shell am start -n io.github.halilozel1903.deezer.sample/.MainActivity --es scene artist
 ```
 
-`scene` is one of `charts`, `artist` (Daft Punk), `search` ("night drive", under 4 minutes) or `car`. In a scene the app retries the network a few times and then shows an error; it never falls back to stored data. The script waits for each screen's section header ("Top tracks", "Popular", "Matching tracks"), which only appears once Deezer has answered, so a failed load fails the CI step instead of producing a screenshot.
+`scene` is one of `charts`, `artist` (Daft Punk), `search` ("midnight city") or `car`. In a scene the app retries the network a few times and then shows an error; it never falls back to stored data. The script waits for each screen's section header ("Top tracks", "Popular", "Matching tracks"), which only appears once Deezer has answered, so a failed load fails the CI step instead of producing a screenshot.
 
 ## Project structure
 

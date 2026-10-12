@@ -24,7 +24,7 @@ enum class Scene(val key: String) {
         const val ARTIST_ID = 27L
 
         /** The query of the search scene. */
-        const val SEARCH_QUERY = "night drive"
+        const val SEARCH_QUERY = "midnight city"
 
         fun from(key: String?): Scene? = entries.firstOrNull { it.key == key }
     }

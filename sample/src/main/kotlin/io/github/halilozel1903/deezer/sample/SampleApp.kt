@@ -135,7 +135,7 @@ private fun PhoneScaffold(
             is Screen.Search -> Column(modifier) {
                 SearchScreen(
                     initialQuery = current.query,
-                    initialFilter = if (scene == Scene.Search) LengthFilter.UnderFour else LengthFilter.AnyLength,
+                    initialFilter = LengthFilter.AnyLength,
                     player = player,
                     onArtist = { open(Screen.Artist(it)) },
                     contentPadding = contentPadding,
